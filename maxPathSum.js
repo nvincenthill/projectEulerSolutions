@@ -51,4 +51,5 @@ const maxPathSum = triangle => {
   return current[0];
 };
 
-console.log(maxPathSum(triangle));
+// tests
+// console.log(maxPathSum(triangle)); // 1074
