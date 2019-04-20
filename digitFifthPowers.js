@@ -32,4 +32,5 @@ const digitSumEqualsNum = (num, power) => {
   return num === sum;
 };
 
-console.log(findAllPowNums(10000000, 5)); // 443839
+// tests
+// console.log(findAllPowNums(10000000, 5)); // 443839
